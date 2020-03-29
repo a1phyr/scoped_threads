@@ -1,0 +1,18 @@
+[package]
+name = "scoped_threads"
+version = "0.1.0"
+authors = ["Benoît du Garreau <bdgdlm@outlook.com>"]
+edition = "2018"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+description= "Lightweight, safe and idiomatic scoped threads"
+
+repository = "https://github.com/a1phyr/scoped_threads"
+documentation = "https://docs.rs/scoped_threads"
+
+categories = ["concurrency", "rust-patterns"]
+keywords = ["scoped", "thread", "threads"]
+
+
+[features]
+nightly = []
